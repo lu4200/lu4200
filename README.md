@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lu4200
-- 👀 I’m interested in discrete mathematics and analytics
-- 🌱 I’m currently learning mathematics and Informatic in "L1 maths-info" french system
-- 💞️ I’m looking to collaborate on alogrithmic and mathematic problems
-- 📫 How to reach me : lucas.maret11@gmail.com
+- 👋 Hi, I’m lucas
+- 👀 I’m interested in discrete mathematics and IA
+- 📫 reach me on : lucas.maret11@gmail.com
 
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
