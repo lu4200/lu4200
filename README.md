@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lucas
 - 👀 I’m interested in discrete mathematics and IA
-- 📫 reach me on : lucas.maret11@gmail.com
+- 📫 reach me on : lumaret@student.42.fr
 
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
