@@ -1,5 +1,5 @@
 - 👋 Hi, I’m lucas
-- 👀 I’m interested in discrete mathematics and IA
+- 👀 I’m interested in IA & design 
 - 📫 reach me on : lumaret@student.42.fr
 
 <!---
