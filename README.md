@@ -1,5 +1,5 @@
 - 👋 Hi, I’m lucas
-- 👀 I’m interested in IA & design 
+- 👀 I’m interested in IA & software 
 - 📫 reach me on : lumaret@student.42.fr
 
 <!---
