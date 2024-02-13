@@ -1,8 +1,15 @@
 # Mon Projet
 
-Bienvenue sur mon projet ! Voici une animation représentant mes contributions GitHub :
+# Mon Projet
 
-![GitHub Contributions Snake Animation](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg)
+![GitHub Contributions Snake Animation - Light](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg?palette=github-light)
+![GitHub Contributions Snake Animation - Dark](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+Cliquez sur l'icône pour basculer entre le mode clair et le mode sombre :
+
+[![Light Mode](https://img.shields.io/badge/Light-Mode-brightgreen?style=flat-square)](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg?palette=github-light)
+[![Dark Mode](https://img.shields.io/badge/Dark-Mode-black?style=flat-square)](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
 - 👋 Hi, I’m lucas
