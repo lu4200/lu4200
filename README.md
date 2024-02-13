@@ -1,14 +1,10 @@
-# Mon Projet
 
-# Mon Projet
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
+</picture>
 
-![GitHub Contributions Snake Animation - Light](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg?palette=github-light)
-![GitHub Contributions Snake Animation - Dark](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-Cliquez sur l'icône pour basculer entre le mode clair et le mode sombre :
-
-[![Light Mode](https://img.shields.io/badge/Light-Mode-brightgreen?style=flat-square)](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg?palette=github-light)
-[![Dark Mode](https://img.shields.io/badge/Dark-Mode-black?style=flat-square)](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 
