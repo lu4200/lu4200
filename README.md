@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+# Mon Projet
+
+Bienvenue sur mon projet ! Voici une animation représentant mes contributions GitHub :
+
+![GitHub Contributions Snake Animation](https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg)
+
 
 - 👋 Hi, I’m lucas
 - 👀 I’m interested in IA & software 
