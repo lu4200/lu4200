@@ -16,16 +16,16 @@
 </div>
 </h2>
 <br><br>
-<p align="center">
+<h3 align="center">
  👤 I’m lucas
 - 👀 interested in IA & Design 
 - 🖥️ actually Student at 42 Paris
-</p>
-<br><br>
-<div align ="center">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
-</div>
 
+<br><br>
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
+
+</h3>
 
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
