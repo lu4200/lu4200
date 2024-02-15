@@ -15,11 +15,12 @@
 </div>
 
 
-
+<h2>
 - 👤 I’m lucas
 - 👀 I’m interested in IA & Design 
 - 🖥️ I'm actually Student at 42 Paris
 <br><br>
+</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark">
 </div>
