@@ -25,7 +25,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark">
 </div>
 <div align ="center">
-img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt"
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
