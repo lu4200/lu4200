@@ -10,7 +10,9 @@
 <div align="center">
   <strong>01001000 01101001 !</strong>
   <br><br>
-    [<img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark">](mailto:lumaret@student.42.fr)
+  <a href="mailto:lumaret@student.42.fr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block">
+</a>
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
   <br><br>
 </div>
