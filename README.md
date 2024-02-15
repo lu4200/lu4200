@@ -29,8 +29,8 @@
 </div>
 
 - 👤 I’m lucas 
-- 👀 I’m interested in IA & Design  
-- 🖥️ I'm actually Student at 42 Paris ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt) 
+- 👀 I’m interested in IA & Design   ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt) 
+- 🖥️ I'm actually Student at 42 Paris
 
 
 <!---
