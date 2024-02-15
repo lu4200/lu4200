@@ -18,8 +18,8 @@
 
 <p align="center">
  👤 I’m lucas
-- 👀 I’m interested in IA & Design 
-- 🖥️ I'm actually Student at 42 Paris
+- 👀 interested in IA & Design 
+- 🖥️ actually Student at 42 Paris
 </p>
 <br><br>
 <div align ="center">
