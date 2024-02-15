@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <strong><span style="font-size: 20000px;">01001000 01101001 !</span></strong>
+  <strong>01001000 01101001 !</strong>
   <br><br>
     <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
