@@ -11,7 +11,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="margin-top: 200px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
 </div>
