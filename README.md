@@ -5,7 +5,7 @@
   <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center"><strong><span style="font-size:24px;">Hi i'm Lucas</span></strong></div>
+<div align="center" style="margin-top: 20px;"><strong><span>Hi i'm Lucas</span></strong></div>
 
 <p style="text-align:center;">
     <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
