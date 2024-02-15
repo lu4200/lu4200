@@ -21,7 +21,7 @@
 - 🖥️ I'm actually Student at 42 Paris
 <br><br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={username}">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200">
 </div>
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
