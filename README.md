@@ -6,7 +6,7 @@
 </picture>
 </div>
 
-<div align="center" style="margin-top: 2000px; margin-bottom: 2500px;">
+<div align="center" style="margin-top: 1700px; margin-bottom: 3000px;">
   <h2>
   	01001000 01101001 !
   </h2>
