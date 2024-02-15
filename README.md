@@ -27,6 +27,17 @@
 <div align ="center">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
+
+
+
+<div style="display: flex; align-items: flex-start;">
+  <ul style="flex: 1;">
+    <li>👤 I’m lucas</li>
+    <li>👀 I’m interested in IA & Design</li>
+    <li>🖥️ I'm actually Student at 42 Paris</li>
+  </ul>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark" style="width: 300px;">
+</div>
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
