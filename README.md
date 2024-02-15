@@ -29,7 +29,7 @@
 </div>
 
 
-| Colonne 1 | Colonne 2 |
+
 | --------- | --------- |
 | - 👤 I’m lucas | ![Image](https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark) |
 | - 👀 I’m interested in IA & Design | |
