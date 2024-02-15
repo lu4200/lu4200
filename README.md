@@ -8,8 +8,8 @@
 <p style="text-align:center;"><strong><span style="font-size:24px;">Hi i'm Lucas</span></strong></p>
 
 <p style="text-align:center;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
-    <img src="https://img.shields.io/badge/lu420oo-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
 </p>
 
 
