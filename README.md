@@ -20,9 +20,9 @@
 
 
 
-- 👋 Hi, I’m lucas
-- 👀 I’m interested in IA & software 
-- 📫 reach me on : lumaret@student.42.fr
+- 👤 I’m lucas
+- 👀 I’m interested in IA & Design 
+- 🖥️ I'm actually Student at 42 Paris
 
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
