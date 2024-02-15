@@ -30,7 +30,7 @@
 
 
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: row">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark" style="width: 300px;">
   <ul style="flex: 1;">
     <li>👤 I’m lucas</li>
