@@ -15,7 +15,7 @@
   <br><br>
 </div>
 </h2>
-
+<br><br>
 <p align="center">
  👤 I’m lucas
 - 👀 interested in IA & Design 
