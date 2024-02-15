@@ -28,14 +28,9 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
 
-
-| Colonne 1 | Colonne 2 |
-| --------- | --------- |
-| - 👤 I’m lucas | ![Image](https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark) |
-| - 👀 I’m interested in IA & Design |
-| - 🖥️ I'm actually Student at 42 Paris |
-
-
+- 👤 I’m lucas ![Image](https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark)  
+- 👀 I’m interested in IA & Design  
+- 🖥️ I'm actually Student at 42 Paris  
 
 
 <!---
