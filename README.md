@@ -1,9 +1,10 @@
-
+<h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
 </picture>
+</h1>
 
 <div align="center" style="margin-top: 2500px;">
   <h2>
