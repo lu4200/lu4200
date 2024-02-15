@@ -36,7 +36,7 @@
     <li>👀 I’m interested in IA & Design</li>
     <li>🖥️ I'm actually Student at 42 Paris</li>
   </ul>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark" style="width: 300px;">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
