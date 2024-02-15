@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-- 👤 I’m lucas
+ 👤 I’m lucas
 - 👀 I’m interested in IA & Design 
 - 🖥️ I'm actually Student at 42 Paris
 </p>
