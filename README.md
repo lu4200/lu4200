@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
   <br><br>
 </div>
-
+</h2>
 
 
 - 👤 I’m lucas
 - 👀 I’m interested in IA & Design 
 - 🖥️ I'm actually Student at 42 Paris
-<h2/>
+
 <br><br>
 <div align ="center">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
