@@ -28,9 +28,9 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
 
-- 👤 I’m lucas ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt)  
+- 👤 I’m lucas 
 - 👀 I’m interested in IA & Design  
-- 🖥️ I'm actually Student at 42 Paris  
+- 🖥️ I'm actually Student at 42 Paris  | ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt) 
 
 
 <!---
