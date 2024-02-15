@@ -5,7 +5,7 @@
   <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center" style="margin-top: 500px;">
+<div align="center" style="margin-top: 2500px;">
   Welcome.
 </div>
 
