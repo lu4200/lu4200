@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h2 style="margin-top: 100px; margin-bottom: 3000px;">
+  <h2>
   	01001000 01101001 !
   </h2>
 </div>
