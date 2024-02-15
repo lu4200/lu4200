@@ -16,11 +16,11 @@
 </div>
 </h2>
 
-
+<p align="center">
 - 👤 I’m lucas
 - 👀 I’m interested in IA & Design 
 - 🖥️ I'm actually Student at 42 Paris
-
+</p>
 <br><br>
 <div align ="center">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
