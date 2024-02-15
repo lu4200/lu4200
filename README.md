@@ -1,22 +1,20 @@
-<div>
+<h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/lu4200/lu4200/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
+</h1>
 
 <div align="center">
-  <h2>
   	01001000 01101001 !
-  </h2>
 </div>
 
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
-</p>
+</div>
 
 
 
