@@ -24,11 +24,11 @@
 <div align ="center">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lu4200&theme=cobalt">
 </div>
-<h1>
+<h3>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark">
 </div>
-</h1>
+</h3>
 
 
 <!---
