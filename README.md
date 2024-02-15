@@ -10,7 +10,7 @@
 </div>
 
 
-<p style="text-align:center;">
+<p align="center">
     <img src="https://img.shields.io/badge/Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; margin-right:10px;">
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
 </p>
