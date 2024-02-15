@@ -30,14 +30,12 @@
 
 
 
-<div style="display: flex; align-items: row">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark" style="width: 300px;">
-  <ul style="flex: 1;">
-    <li>👤 I’m lucas</li>
-    <li>👀 I’m interested in IA & Design</li>
-    <li>🖥️ I'm actually Student at 42 Paris</li>
-  </ul>
-</div>
+
+ 
+  - 👤 I’m lucas | ![Image](https://github-readme-activity-graph.vercel.app/graph?username=lu4200&theme=react-dark) |
+  - 👀 I’m interested in IA & Design| |
+  - 🖥️ I'm actually Student at 42 Paris| |
+
 
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
