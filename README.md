@@ -17,9 +17,9 @@
 </h2>
 <br>
 <h3 align="center">
- 👤 I’m lucas
-// 👀 Interested in IA & Design 
-// 🖥️ Actually Student at 42 Paris
+ 👤 I’m lucas  
+//   👀 Interested in IA & Design 
+//   🖥️ Actually Student at 42 Paris
 
 <br><br>
 
