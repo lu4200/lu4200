@@ -6,8 +6,8 @@
 </picture>
 </div>
 
-<div align="center" style="margin-top: 1700px; margin-bottom: 3000px;">
-  <h2>
+<div align="center">
+  <h2 style="margin-top: 1700px; margin-bottom: 3000px;">
   	01001000 01101001 !
   </h2>
 </div>
