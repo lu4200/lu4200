@@ -10,11 +10,13 @@
 <div align="center">
   <strong>01001000 01101001 !</strong>
   <br><br>
-  <a href="mailto:lumaret@student.42.fr">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lumaret@student.42.fr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block">
 </a>
+  <a href="https://twitter.com/lu420oo">
     <img src="https://img.shields.io/badge/Soc-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;">
-  <br><br>
+  </a>
+    <br><br>
 </div>
 </h2>
 <br>
